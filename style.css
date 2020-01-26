@@ -57,3 +57,23 @@
 #tiket th {
 	text-align: center;
 }
+.crvenaBoja {
+	color: red;
+	
+}
+
+.plavaBoja {
+    color: blue;
+}
+.zelenaBoja {
+    color: green;
+}
+
+.aktivanTiket {
+	color: blue;
+}
+
+.neaktivanTiket {
+	color: red;
+
+}
